@@ -1,3 +1,4 @@
+[![<thailx>](https://circleci.com/gh/thailx/Udacity-Devops-Project4.svg?style=svg)](https://circleci.com/gh/thailx/Udacity-Devops-Project4)
 
 ## Project Overview
 
